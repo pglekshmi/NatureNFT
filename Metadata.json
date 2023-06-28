@@ -1,0 +1,84 @@
+[
+    {
+        "description": "Nature is cool that makes us cool.", 
+        "external_url": "https://kba.ai/", 
+        "image": "https://amaranth-bold-basilisk-287.mypinata.cloud/ipfs/QmYcvmxcxbJrYTEc5gBbrD28drtPomG7JNQ2ArtVAVCFb8/CoolFilter.jpg", 
+        "name": "CoolNaure",
+        "attributes":[
+	        {
+	        	"trait_type": "color", 
+     		     "value": "lite"
+             },
+            {
+            	"trait_type": "Shade", 
+                "value": "Relaxing"
+            }
+          ]
+    },
+    {
+        "description": "Nature in color of ocean.", 
+        "external_url": "https://kba.ai/", 
+        "image": "https://amaranth-bold-basilisk-287.mypinata.cloud/ipfs/QmYcvmxcxbJrYTEc5gBbrD28drtPomG7JNQ2ArtVAVCFb8/BlueFilter.jpg", 
+        "name": "BlueNaure",
+        "attributes":[
+	        {
+	        	"trait_type": "color", 
+     		     "value": "blue"
+             },
+            {
+            	"trait_type": "Shade", 
+                "value": "Attracting"
+            }
+          ]
+    },
+    {
+        "description": "Nature is beautiful even in black & white.", 
+        "external_url": "https://kba.ai/", 
+        "image": "https://amaranth-bold-basilisk-287.mypinata.cloud/ipfs/QmYcvmxcxbJrYTEc5gBbrD28drtPomG7JNQ2ArtVAVCFb8/Black&WhiteFilter.jpg", 
+        "name": "Black&WhiteNaure",
+        "attributes":[
+	        {
+	        	"trait_type": "color", 
+     		     "value": "black&white"
+             },
+            {
+            	"trait_type": "Shade", 
+                "value": "Nostalgic"
+            }
+          ]
+    }, 
+    {
+        "description": "Nature is shining with green & gold.", 
+        "external_url": "https://kba.ai/", 
+        "image": "https://amaranth-bold-basilisk-287.mypinata.cloud/ipfs/QmYcvmxcxbJrYTEc5gBbrD28drtPomG7JNQ2ArtVAVCFb8/Green&Gold.jpg", 
+        "name": "Green&GoldNaure",
+        "attributes":[
+	        {
+	        	"trait_type": "color", 
+     		     "value": "green&gold"
+             },
+            {
+            	"trait_type": "Shade", 
+                "value": "Mesmerizing"
+            }
+          ]
+    },
+    {
+        "description": "Nature as it is.", 
+        "external_url": "https://kba.ai/", 
+        "image": "https://amaranth-bold-basilisk-287.mypinata.cloud/ipfs/QmYcvmxcxbJrYTEc5gBbrD28drtPomG7JNQ2ArtVAVCFb8/Orginal.jpg", 
+        "name": "Nature",
+        "attributes":[
+	        {
+	        	"trait_type": "color", 
+     		     "value": "green"
+             },
+            {
+            	"trait_type": "Shade", 
+                "value": "Original"
+            }
+          ]
+    }
+    
+    
+]
