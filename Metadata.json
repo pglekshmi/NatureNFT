@@ -1,0 +1,14 @@
+{
+    "description": "Sea & Nature", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://amaranth-bold-basilisk-287.mypinata.cloud/ipfs/QmZ1zfb9QWCpb773mCJFJvqmo5Dgswt5yMTWZDtweBj8Hi", 
+    "name": "Blue sea",
+    "attributes": [  {
+        "trait_type": "Color", 
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Mood", 
+        "value": "Relaxing"
+      }]
+  }
